@@ -36,3 +36,6 @@ So this will translate to: `Hello World`.
 
 ## Turn Off
 If you would like to turn the translator off, all you need to do is to type "off".
+
+## Docs
+You can see the fluxogram of the project by clicking [here](https://github.com/willdonin/morse-code-translator/blob/main/Fluxograms/morse-code-translator.pdf)
