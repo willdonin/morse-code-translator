@@ -2,6 +2,10 @@
 This translator can encode and decode morse code messages in a few seconds. If you would like to know how it works, follow along this file to learn how. If you just
 want to try it out, you can access the live application on my replit by clicking [here](https://replit.com/@willdonin/morse-code-translator?v=1).
 
+## Documents
+You can see the fluxogram of the project by clicking [here](https://github.com/willdonin/morse-code-translator/blob/main/Fluxograms/morse-code-translator.pdf)
+
+
 ## Rules
 There are a few important rules to know prior to use this application:
 
@@ -36,6 +40,3 @@ So this will translate to: `Hello World`.
 
 ## Turn Off
 If you would like to turn the translator off, all you need to do is to type "off".
-
-## Docs
-You can see the fluxogram of the project by clicking [here](https://github.com/willdonin/morse-code-translator/blob/main/Fluxograms/morse-code-translator.pdf)
